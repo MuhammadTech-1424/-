@@ -1,5 +1,5 @@
 # Assalamu a'laykum! Sahifamga xush kelibsiz!
-Men Muhammadjon .NET (C#) bekend dasturchisiman. Men asosan "The Standart" arxitekturasiga ko'ra loyihalar qilaman. 
+Men Muhammadjon .NET (C#) Backend dasturchisiman. Men asosan "The Standart" arxitekturasiga ko'ra loyihalar qilaman. 
 
 ![.NET](https://github.com/user-attachments/assets/0fe0c5cb-3450-4fa7-af5a-8f367def3e78 "With C#")
 
